@@ -1,0 +1,1 @@
+# Metodos-de-classe-ou-metodos-estaticos
